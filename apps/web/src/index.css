@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+
+:root {
+  --display: 'Michroma', 'Segoe UI', sans-serif;
+  --body: 'IBM Plex Sans', 'Segoe UI', sans-serif;
+  --ink: #eff6f2;
+  --copy: #a6bcc3;
+  --muted: #7d98a0;
+  --accent: #14d8b1;
+  --accent-soft: #adf5e2;
+  --warm: #f0c467;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: var(--body);
+  color: var(--ink);
+  background:
+    radial-gradient(circle at top left, rgba(20, 216, 177, 0.12), transparent 22%),
+    radial-gradient(circle at top right, rgba(240, 196, 103, 0.1), transparent 20%),
+    linear-gradient(180deg, #071219, #03070d 68%);
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.024) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.024) 1px, transparent 1px);
+  background-size: 54px 54px;
+  mask-image: radial-gradient(circle at center, black 32%, transparent 95%);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1,
+h2,
+h3,
+strong {
+  font-family: var(--display);
+}
+
+h1 {
+  font-size: clamp(2.4rem, 4.8vw, 4.4rem);
+  line-height: 1.02;
+}
+
+h2 {
+  font-size: clamp(1.25rem, 2vw, 1.8rem);
+}
+
+h3 {
+  font-size: 0.98rem;
+}
+
+p,
+span,
+button,
+input,
+select {
+  font: inherit;
+}

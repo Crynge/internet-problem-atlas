@@ -1,0 +1,1082 @@
+{
+  "generated_at": "2026-05-06",
+  "total_problems": 1296,
+  "vertical_count": 48,
+  "macro_theme_count": 9,
+  "macro_theme_counts": {
+    "fraud": 288,
+    "identity": 240,
+    "marketplace": 48,
+    "trust": 96,
+    "operations": 48,
+    "payments": 192,
+    "support": 240,
+    "privacy": 48,
+    "conversion": 96
+  },
+  "average_opportunity_score": 78.53,
+  "average_ai_fit_score": 67.9,
+  "top_problems": [
+    {
+      "id": "crypto--phishing_login_flow",
+      "vertical_slug": "crypto",
+      "vertical": "Crypto Exchange",
+      "sector": "finance",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Crypto Exchange login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 100,
+      "urgency_score": 94,
+      "frequency_score": 79,
+      "opportunity_score": 91,
+      "ai_fit_score": 54,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "crypto",
+        "crypto exchange",
+        "phishing login flow",
+        "identity",
+        "finance"
+      ]
+    },
+    {
+      "id": "streaming--phishing_login_flow",
+      "vertical_slug": "streaming",
+      "vertical": "Streaming",
+      "sector": "media",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Streaming login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 100,
+      "urgency_score": 94,
+      "frequency_score": 81,
+      "opportunity_score": 91,
+      "ai_fit_score": 54,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "streaming",
+        "streaming",
+        "phishing login flow",
+        "identity",
+        "media"
+      ]
+    },
+    {
+      "id": "food_delivery--phishing_login_flow",
+      "vertical_slug": "food_delivery",
+      "vertical": "Food Delivery",
+      "sector": "delivery",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Food Delivery login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 100,
+      "urgency_score": 94,
+      "frequency_score": 79,
+      "opportunity_score": 91,
+      "ai_fit_score": 55,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "food_delivery",
+        "food delivery",
+        "phishing login flow",
+        "identity",
+        "delivery"
+      ]
+    },
+    {
+      "id": "job_board--phishing_login_flow",
+      "vertical_slug": "job_board",
+      "vertical": "Job Board",
+      "sector": "work",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Job Board login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 100,
+      "urgency_score": 94,
+      "frequency_score": 77,
+      "opportunity_score": 90,
+      "ai_fit_score": 55,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "job_board",
+        "job board",
+        "phishing login flow",
+        "identity",
+        "work"
+      ]
+    },
+    {
+      "id": "rentals--phishing_login_flow",
+      "vertical_slug": "rentals",
+      "vertical": "Rental Listings",
+      "sector": "housing",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Rental Listings login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 100,
+      "urgency_score": 94,
+      "frequency_score": 75,
+      "opportunity_score": 90,
+      "ai_fit_score": 57,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "rentals",
+        "rental listings",
+        "phishing login flow",
+        "identity",
+        "housing"
+      ]
+    },
+    {
+      "id": "auto_retail--phishing_login_flow",
+      "vertical_slug": "auto_retail",
+      "vertical": "Auto Retail",
+      "sector": "retail",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Auto Retail login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 100,
+      "urgency_score": 94,
+      "frequency_score": 77,
+      "opportunity_score": 90,
+      "ai_fit_score": 57,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "auto_retail",
+        "auto retail",
+        "phishing login flow",
+        "identity",
+        "retail"
+      ]
+    },
+    {
+      "id": "real_estate--phishing_login_flow",
+      "vertical_slug": "real_estate",
+      "vertical": "Real Estate",
+      "sector": "housing",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Real Estate login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 97,
+      "urgency_score": 94,
+      "frequency_score": 81,
+      "opportunity_score": 90,
+      "ai_fit_score": 55,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "real_estate",
+        "real estate",
+        "phishing login flow",
+        "identity",
+        "housing"
+      ]
+    },
+    {
+      "id": "developer_tools--phishing_login_flow",
+      "vertical_slug": "developer_tools",
+      "vertical": "Developer Tools",
+      "sector": "software",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Developer Tools login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 97,
+      "urgency_score": 94,
+      "frequency_score": 79,
+      "opportunity_score": 90,
+      "ai_fit_score": 57,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "developer_tools",
+        "developer tools",
+        "phishing login flow",
+        "identity",
+        "software"
+      ]
+    },
+    {
+      "id": "cybersecurity--phishing_login_flow",
+      "vertical_slug": "cybersecurity",
+      "vertical": "Cybersecurity Vendor",
+      "sector": "enterprise",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Cybersecurity Vendor login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 97,
+      "urgency_score": 94,
+      "frequency_score": 81,
+      "opportunity_score": 90,
+      "ai_fit_score": 57,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "cybersecurity",
+        "cybersecurity vendor",
+        "phishing login flow",
+        "identity",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "crypto--deepfake_voice_fraud",
+      "vertical_slug": "crypto",
+      "vertical": "Crypto Exchange",
+      "sector": "finance",
+      "macro_theme": "fraud",
+      "problem_slug": "deepfake_voice_fraud",
+      "problem_title": "Users are vulnerable to deepfake or voice-clone fraud in Crypto Exchange",
+      "user_phrase": "The voice or video sounded real, and I only realized later it was fake.",
+      "why_now_2026": "Consumers increasingly encounter deepfake and voice-clone scams across daily digital interactions.",
+      "severity_score": 100,
+      "urgency_score": 90,
+      "frequency_score": 72,
+      "opportunity_score": 89,
+      "ai_fit_score": 49,
+      "evidence_sources": [
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Out-of-band verification, secure callback flows, and synthetic-media detection.",
+      "keywords": [
+        "crypto",
+        "crypto exchange",
+        "deepfake voice fraud",
+        "fraud",
+        "finance"
+      ]
+    },
+    {
+      "id": "streaming--deepfake_voice_fraud",
+      "vertical_slug": "streaming",
+      "vertical": "Streaming",
+      "sector": "media",
+      "macro_theme": "fraud",
+      "problem_slug": "deepfake_voice_fraud",
+      "problem_title": "Users are vulnerable to deepfake or voice-clone fraud in Streaming",
+      "user_phrase": "The voice or video sounded real, and I only realized later it was fake.",
+      "why_now_2026": "Consumers increasingly encounter deepfake and voice-clone scams across daily digital interactions.",
+      "severity_score": 100,
+      "urgency_score": 90,
+      "frequency_score": 74,
+      "opportunity_score": 89,
+      "ai_fit_score": 49,
+      "evidence_sources": [
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Out-of-band verification, secure callback flows, and synthetic-media detection.",
+      "keywords": [
+        "streaming",
+        "streaming",
+        "deepfake voice fraud",
+        "fraud",
+        "media"
+      ]
+    },
+    {
+      "id": "food_delivery--deepfake_voice_fraud",
+      "vertical_slug": "food_delivery",
+      "vertical": "Food Delivery",
+      "sector": "delivery",
+      "macro_theme": "fraud",
+      "problem_slug": "deepfake_voice_fraud",
+      "problem_title": "Users are vulnerable to deepfake or voice-clone fraud in Food Delivery",
+      "user_phrase": "The voice or video sounded real, and I only realized later it was fake.",
+      "why_now_2026": "Consumers increasingly encounter deepfake and voice-clone scams across daily digital interactions.",
+      "severity_score": 100,
+      "urgency_score": 90,
+      "frequency_score": 72,
+      "opportunity_score": 89,
+      "ai_fit_score": 50,
+      "evidence_sources": [
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Out-of-band verification, secure callback flows, and synthetic-media detection.",
+      "keywords": [
+        "food_delivery",
+        "food delivery",
+        "deepfake voice fraud",
+        "fraud",
+        "delivery"
+      ]
+    },
+    {
+      "id": "crypto--account_takeover",
+      "vertical_slug": "crypto",
+      "vertical": "Crypto Exchange",
+      "sector": "finance",
+      "macro_theme": "identity",
+      "problem_slug": "account_takeover",
+      "problem_title": "Users lose access to Crypto Exchange accounts through takeover or session theft",
+      "user_phrase": "My account got hijacked or I was locked out after suspicious activity.",
+      "why_now_2026": "Account takeover remains a major loss vector, and session-token abuse is becoming more industrialized.",
+      "severity_score": 99,
+      "urgency_score": 90,
+      "frequency_score": 74,
+      "opportunity_score": 89,
+      "ai_fit_score": 65,
+      "evidence_sources": [
+        "transunion_fraud_2026",
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026"
+      ],
+      "evidence_links": [
+        "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/",
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+      ],
+      "solution_direction": "Session risk scoring, recovery hardening, and impossible-travel style anomaly controls.",
+      "keywords": [
+        "crypto",
+        "crypto exchange",
+        "account takeover",
+        "identity",
+        "finance"
+      ]
+    },
+    {
+      "id": "job_board--account_takeover",
+      "vertical_slug": "job_board",
+      "vertical": "Job Board",
+      "sector": "work",
+      "macro_theme": "identity",
+      "problem_slug": "account_takeover",
+      "problem_title": "Users lose access to Job Board accounts through takeover or session theft",
+      "user_phrase": "My account got hijacked or I was locked out after suspicious activity.",
+      "why_now_2026": "Account takeover remains a major loss vector, and session-token abuse is becoming more industrialized.",
+      "severity_score": 99,
+      "urgency_score": 90,
+      "frequency_score": 72,
+      "opportunity_score": 89,
+      "ai_fit_score": 67,
+      "evidence_sources": [
+        "transunion_fraud_2026",
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026"
+      ],
+      "evidence_links": [
+        "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/",
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+      ],
+      "solution_direction": "Session risk scoring, recovery hardening, and impossible-travel style anomaly controls.",
+      "keywords": [
+        "job_board",
+        "job board",
+        "account takeover",
+        "identity",
+        "work"
+      ]
+    },
+    {
+      "id": "streaming--account_takeover",
+      "vertical_slug": "streaming",
+      "vertical": "Streaming",
+      "sector": "media",
+      "macro_theme": "identity",
+      "problem_slug": "account_takeover",
+      "problem_title": "Users lose access to Streaming accounts through takeover or session theft",
+      "user_phrase": "My account got hijacked or I was locked out after suspicious activity.",
+      "why_now_2026": "Account takeover remains a major loss vector, and session-token abuse is becoming more industrialized.",
+      "severity_score": 99,
+      "urgency_score": 90,
+      "frequency_score": 76,
+      "opportunity_score": 89,
+      "ai_fit_score": 65,
+      "evidence_sources": [
+        "transunion_fraud_2026",
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026"
+      ],
+      "evidence_links": [
+        "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/",
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+      ],
+      "solution_direction": "Session risk scoring, recovery hardening, and impossible-travel style anomaly controls.",
+      "keywords": [
+        "streaming",
+        "streaming",
+        "account takeover",
+        "identity",
+        "media"
+      ]
+    },
+    {
+      "id": "food_delivery--account_takeover",
+      "vertical_slug": "food_delivery",
+      "vertical": "Food Delivery",
+      "sector": "delivery",
+      "macro_theme": "identity",
+      "problem_slug": "account_takeover",
+      "problem_title": "Users lose access to Food Delivery accounts through takeover or session theft",
+      "user_phrase": "My account got hijacked or I was locked out after suspicious activity.",
+      "why_now_2026": "Account takeover remains a major loss vector, and session-token abuse is becoming more industrialized.",
+      "severity_score": 99,
+      "urgency_score": 90,
+      "frequency_score": 74,
+      "opportunity_score": 89,
+      "ai_fit_score": 67,
+      "evidence_sources": [
+        "transunion_fraud_2026",
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026"
+      ],
+      "evidence_links": [
+        "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/",
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+      ],
+      "solution_direction": "Session risk scoring, recovery hardening, and impossible-travel style anomaly controls.",
+      "keywords": [
+        "food_delivery",
+        "food delivery",
+        "account takeover",
+        "identity",
+        "delivery"
+      ]
+    },
+    {
+      "id": "auto_retail--account_takeover",
+      "vertical_slug": "auto_retail",
+      "vertical": "Auto Retail",
+      "sector": "retail",
+      "macro_theme": "identity",
+      "problem_slug": "account_takeover",
+      "problem_title": "Users lose access to Auto Retail accounts through takeover or session theft",
+      "user_phrase": "My account got hijacked or I was locked out after suspicious activity.",
+      "why_now_2026": "Account takeover remains a major loss vector, and session-token abuse is becoming more industrialized.",
+      "severity_score": 99,
+      "urgency_score": 90,
+      "frequency_score": 72,
+      "opportunity_score": 89,
+      "ai_fit_score": 69,
+      "evidence_sources": [
+        "transunion_fraud_2026",
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026"
+      ],
+      "evidence_links": [
+        "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/",
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+      ],
+      "solution_direction": "Session risk scoring, recovery hardening, and impossible-travel style anomaly controls.",
+      "keywords": [
+        "auto_retail",
+        "auto retail",
+        "account takeover",
+        "identity",
+        "retail"
+      ]
+    },
+    {
+      "id": "crypto--imposter_scam",
+      "vertical_slug": "crypto",
+      "vertical": "Crypto Exchange",
+      "sector": "finance",
+      "macro_theme": "fraud",
+      "problem_slug": "imposter_scam",
+      "problem_title": "Users cannot tell real Crypto Exchange outreach from imposter scams",
+      "user_phrase": "I got a message that looked real, but I cannot tell if it is actually from Crypto Exchange.",
+      "why_now_2026": "Imposter scams remain among the highest-loss internet complaints and AI-generated lures keep getting more convincing.",
+      "severity_score": 99,
+      "urgency_score": 83,
+      "frequency_score": 85,
+      "opportunity_score": 89,
+      "ai_fit_score": 60,
+      "evidence_sources": [
+        "ftc_fraud_2025_release",
+        "fbi_ic3_2026",
+        "mcafee_scamiverse_2026"
+      ],
+      "evidence_links": [
+        "https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+      ],
+      "solution_direction": "Trust verification layer, message provenance, and outbound notice registry.",
+      "keywords": [
+        "crypto",
+        "crypto exchange",
+        "imposter scam",
+        "fraud",
+        "finance"
+      ]
+    },
+    {
+      "id": "streaming--imposter_scam",
+      "vertical_slug": "streaming",
+      "vertical": "Streaming",
+      "sector": "media",
+      "macro_theme": "fraud",
+      "problem_slug": "imposter_scam",
+      "problem_title": "Users cannot tell real Streaming outreach from imposter scams",
+      "user_phrase": "I got a message that looked real, but I cannot tell if it is actually from Streaming.",
+      "why_now_2026": "Imposter scams remain among the highest-loss internet complaints and AI-generated lures keep getting more convincing.",
+      "severity_score": 99,
+      "urgency_score": 83,
+      "frequency_score": 88,
+      "opportunity_score": 89,
+      "ai_fit_score": 60,
+      "evidence_sources": [
+        "ftc_fraud_2025_release",
+        "fbi_ic3_2026",
+        "mcafee_scamiverse_2026"
+      ],
+      "evidence_links": [
+        "https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+      ],
+      "solution_direction": "Trust verification layer, message provenance, and outbound notice registry.",
+      "keywords": [
+        "streaming",
+        "streaming",
+        "imposter scam",
+        "fraud",
+        "media"
+      ]
+    },
+    {
+      "id": "food_delivery--imposter_scam",
+      "vertical_slug": "food_delivery",
+      "vertical": "Food Delivery",
+      "sector": "delivery",
+      "macro_theme": "fraud",
+      "problem_slug": "imposter_scam",
+      "problem_title": "Users cannot tell real Food Delivery outreach from imposter scams",
+      "user_phrase": "I got a message that looked real, but I cannot tell if it is actually from Food Delivery.",
+      "why_now_2026": "Imposter scams remain among the highest-loss internet complaints and AI-generated lures keep getting more convincing.",
+      "severity_score": 99,
+      "urgency_score": 83,
+      "frequency_score": 85,
+      "opportunity_score": 89,
+      "ai_fit_score": 62,
+      "evidence_sources": [
+        "ftc_fraud_2025_release",
+        "fbi_ic3_2026",
+        "mcafee_scamiverse_2026"
+      ],
+      "evidence_links": [
+        "https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+      ],
+      "solution_direction": "Trust verification layer, message provenance, and outbound notice registry.",
+      "keywords": [
+        "food_delivery",
+        "food delivery",
+        "imposter scam",
+        "fraud",
+        "delivery"
+      ]
+    },
+    {
+      "id": "insurance--phishing_login_flow",
+      "vertical_slug": "insurance",
+      "vertical": "Insurance",
+      "sector": "finance",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Insurance login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 97,
+      "urgency_score": 94,
+      "frequency_score": 77,
+      "opportunity_score": 89,
+      "ai_fit_score": 57,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "insurance",
+        "insurance",
+        "phishing login flow",
+        "identity",
+        "finance"
+      ]
+    },
+    {
+      "id": "edtech--phishing_login_flow",
+      "vertical_slug": "edtech",
+      "vertical": "EdTech",
+      "sector": "education",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official EdTech login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 97,
+      "urgency_score": 94,
+      "frequency_score": 75,
+      "opportunity_score": 89,
+      "ai_fit_score": 54,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "edtech",
+        "edtech",
+        "phishing login flow",
+        "identity",
+        "education"
+      ]
+    },
+    {
+      "id": "ticketing--phishing_login_flow",
+      "vertical_slug": "ticketing",
+      "vertical": "Event Ticketing",
+      "sector": "events",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Event Ticketing login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 97,
+      "urgency_score": 94,
+      "frequency_score": 77,
+      "opportunity_score": 89,
+      "ai_fit_score": 54,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "ticketing",
+        "event ticketing",
+        "phishing login flow",
+        "identity",
+        "events"
+      ]
+    },
+    {
+      "id": "consumer_electronics--phishing_login_flow",
+      "vertical_slug": "consumer_electronics",
+      "vertical": "Consumer Electronics",
+      "sector": "retail",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Consumer Electronics login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 97,
+      "urgency_score": 94,
+      "frequency_score": 75,
+      "opportunity_score": 89,
+      "ai_fit_score": 55,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "consumer_electronics",
+        "consumer electronics",
+        "phishing login flow",
+        "identity",
+        "retail"
+      ]
+    },
+    {
+      "id": "crypto--social_media_scam",
+      "vertical_slug": "crypto",
+      "vertical": "Crypto Exchange",
+      "sector": "finance",
+      "macro_theme": "fraud",
+      "problem_slug": "social_media_scam",
+      "problem_title": "Users get pulled from social feeds into fake Crypto Exchange offers",
+      "user_phrase": "The ad looked real on social media, but it turned into a scam when I tried to buy or sign up.",
+      "why_now_2026": "Social-originated scam losses keep rising and reach younger as well as older consumers.",
+      "severity_score": 96,
+      "urgency_score": 84,
+      "frequency_score": 90,
+      "opportunity_score": 89,
+      "ai_fit_score": 55,
+      "evidence_sources": [
+        "ftc_social_scams_2026",
+        "mcafee_scamiverse_2026",
+        "transunion_fraud_2026"
+      ],
+      "evidence_links": [
+        "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2026/04/reported-losses-scams-social-media-eight-times-higher-2020",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/"
+      ],
+      "solution_direction": "Link reputation, seller verification, and ad-to-checkout risk scoring.",
+      "keywords": [
+        "crypto",
+        "crypto exchange",
+        "social media scam",
+        "fraud",
+        "finance"
+      ]
+    },
+    {
+      "id": "streaming--social_media_scam",
+      "vertical_slug": "streaming",
+      "vertical": "Streaming",
+      "sector": "media",
+      "macro_theme": "fraud",
+      "problem_slug": "social_media_scam",
+      "problem_title": "Users get pulled from social feeds into fake Streaming offers",
+      "user_phrase": "The ad looked real on social media, but it turned into a scam when I tried to buy or sign up.",
+      "why_now_2026": "Social-originated scam losses keep rising and reach younger as well as older consumers.",
+      "severity_score": 96,
+      "urgency_score": 84,
+      "frequency_score": 93,
+      "opportunity_score": 89,
+      "ai_fit_score": 55,
+      "evidence_sources": [
+        "ftc_social_scams_2026",
+        "mcafee_scamiverse_2026",
+        "transunion_fraud_2026"
+      ],
+      "evidence_links": [
+        "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2026/04/reported-losses-scams-social-media-eight-times-higher-2020",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/"
+      ],
+      "solution_direction": "Link reputation, seller verification, and ad-to-checkout risk scoring.",
+      "keywords": [
+        "streaming",
+        "streaming",
+        "social media scam",
+        "fraud",
+        "media"
+      ]
+    },
+    {
+      "id": "food_delivery--social_media_scam",
+      "vertical_slug": "food_delivery",
+      "vertical": "Food Delivery",
+      "sector": "delivery",
+      "macro_theme": "fraud",
+      "problem_slug": "social_media_scam",
+      "problem_title": "Users get pulled from social feeds into fake Food Delivery offers",
+      "user_phrase": "The ad looked real on social media, but it turned into a scam when I tried to buy or sign up.",
+      "why_now_2026": "Social-originated scam losses keep rising and reach younger as well as older consumers.",
+      "severity_score": 96,
+      "urgency_score": 84,
+      "frequency_score": 90,
+      "opportunity_score": 89,
+      "ai_fit_score": 57,
+      "evidence_sources": [
+        "ftc_social_scams_2026",
+        "mcafee_scamiverse_2026",
+        "transunion_fraud_2026"
+      ],
+      "evidence_links": [
+        "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2026/04/reported-losses-scams-social-media-eight-times-higher-2020",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/"
+      ],
+      "solution_direction": "Link reputation, seller verification, and ad-to-checkout risk scoring.",
+      "keywords": [
+        "food_delivery",
+        "food delivery",
+        "social media scam",
+        "fraud",
+        "delivery"
+      ]
+    },
+    {
+      "id": "education--phishing_login_flow",
+      "vertical_slug": "education",
+      "vertical": "Education",
+      "sector": "education",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Education login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 94,
+      "urgency_score": 94,
+      "frequency_score": 81,
+      "opportunity_score": 89,
+      "ai_fit_score": 57,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "education",
+        "education",
+        "phishing login flow",
+        "identity",
+        "education"
+      ]
+    },
+    {
+      "id": "airline--phishing_login_flow",
+      "vertical_slug": "airline",
+      "vertical": "Airline",
+      "sector": "travel",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Airline login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 94,
+      "urgency_score": 94,
+      "frequency_score": 79,
+      "opportunity_score": 89,
+      "ai_fit_score": 54,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "airline",
+        "airline",
+        "phishing login flow",
+        "identity",
+        "travel"
+      ]
+    },
+    {
+      "id": "beauty--phishing_login_flow",
+      "vertical_slug": "beauty",
+      "vertical": "Beauty Commerce",
+      "sector": "lifestyle",
+      "macro_theme": "identity",
+      "problem_slug": "phishing_login_flow",
+      "problem_title": "Users are tricked into phishing flows that mimic official Beauty Commerce login pages",
+      "user_phrase": "The login page looked official, so I entered the code or password without realizing it was a trap.",
+      "why_now_2026": "AI-enabled phishing kits are more automated, personalized, and harder to spot than older campaigns.",
+      "severity_score": 94,
+      "urgency_score": 94,
+      "frequency_score": 81,
+      "opportunity_score": 89,
+      "ai_fit_score": 54,
+      "evidence_sources": [
+        "microsoft_device_code_2026",
+        "mcafee_scamiverse_2026",
+        "fbi_ic3_2026"
+      ],
+      "evidence_links": [
+        "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/",
+        "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html",
+        "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+      ],
+      "solution_direction": "Phishing-resistant authentication, origin validation, and login anomaly detection.",
+      "keywords": [
+        "beauty",
+        "beauty commerce",
+        "phishing login flow",
+        "identity",
+        "lifestyle"
+      ]
+    }
+  ],
+  "sources": {
+    "ftc_social_scams_2026": {
+      "label": "FTC social media scam spotlight",
+      "date": "2026-04-27",
+      "url": "https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2026/04/reported-losses-scams-social-media-eight-times-higher-2020"
+    },
+    "ftc_fraud_2025_release": {
+      "label": "FTC 2024 fraud loss release",
+      "date": "2025-03-10",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024"
+    },
+    "fbi_ic3_2026": {
+      "label": "FBI / IC3 2025 report release",
+      "date": "2026-04-06",
+      "url": "https://www.fbi.gov/news/press-releases/cryptocurrency-and-ai-scams-bilk-americans-of-billions"
+    },
+    "gartner_service_2026": {
+      "label": "Gartner service and support leaders survey",
+      "date": "2026-02-18",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-02-18-gartner-survey-finds-ninety-one-percent-of-customer-service-leaders-under-pressure-to-implement-ai-in-2026"
+    },
+    "medallia_cx_2026": {
+      "label": "Medallia State of Customer Experience",
+      "date": "2026-03-05",
+      "url": "https://www.medallia.com/press-release/medallia-releases-2026-state-of-customer-experience-report/"
+    },
+    "qualtrics_cx_2026": {
+      "label": "Qualtrics consumer experience trends",
+      "date": "2026-01-01",
+      "url": "https://www.qualtrics.com/en-gb/ebooks-guides/customer-experience-trends/"
+    },
+    "mcafee_scamiverse_2026": {
+      "label": "McAfee State of the Scamiverse",
+      "date": "2026-02-05",
+      "url": "https://www.mcafee.com/en-in/consumer-corporate/newsroom/press-releases/2026/20260204-1.html"
+    },
+    "transunion_fraud_2026": {
+      "label": "TransUnion top fraud trends update",
+      "date": "2026-04-08",
+      "url": "https://newsroom.transunion.com/h1-2026-update-to-the-top-fraud-trends-report/"
+    },
+    "microsoft_device_code_2026": {
+      "label": "Microsoft AI-enabled device code phishing campaign",
+      "date": "2026-04-06",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/04/06/ai-enabled-device-code-phishing-campaign-april-2026/"
+    }
+  }
+}
