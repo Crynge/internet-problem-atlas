@@ -1,5 +1,17 @@
 # Internet Problem Atlas
 
+<!-- portfolio-seo:start -->
+![Stars](https://img.shields.io/github/stars/Crynge/internet-problem-atlas?style=flat-square) ![License](https://img.shields.io/github/license/Crynge/internet-problem-atlas?style=flat-square) ![Status](https://img.shields.io/badge/status-active-blue?style=flat-square)
+
+![Social Preview](docs/social-preview.png)
+
+> Searchable atlas of 1,296 internet pain points across 48 verticals for founders, researchers, and product teams.
+
+**GitHub Search Keywords:** problem atlas, startup idea research, product research dataset, internet pain points, market research tool, problem discovery, research dashboard
+
+<!-- portfolio-seo:end -->
+
+
 `internet-problem-atlas` is a research-backed product intelligence repo that turns current internet pain patterns into a structured, explorable dataset.
 
 As of **May 6, 2026**, the most repeated user pain clusters showing up across current reports are:
