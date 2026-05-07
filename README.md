@@ -11,6 +11,15 @@
 
 <!-- portfolio-seo:end -->
 
+<!-- portfolio-links:start -->
+<div align="center">
+
+[Documentation](docs) &middot; [Audit](docs/final-audit.md) &middot; [Research](docs/problem-brief.md) &middot; [Screenshots](docs/screenshots) &middot; [Results](results) &middot; [Contributing](CONTRIBUTING.md) &middot; [Security](SECURITY.md) &middot; [Authors](AUTHORS.md) &middot; [Workflows](.github/workflows)
+
+</div>
+<!-- portfolio-links:end -->
+
+
 
 `internet-problem-atlas` is a research-backed product intelligence repo that turns current internet pain patterns into a structured, explorable dataset.
 
